@@ -1,6 +1,6 @@
 ---
 title: Welcome
-layout: page
+layout: default
 ---
 
 # You are here
