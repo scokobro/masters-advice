@@ -21,7 +21,7 @@
 title: GSIR Masters Advice
 email: spkb@fc.ritsumei.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  Offering advice on how to prepare a good research proposal
+  Offering advice on how to prepare a good research proposal for GSIR
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://scokobro.github.io/masters-advice/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: scokobro
