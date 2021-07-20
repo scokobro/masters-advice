@@ -1,6 +1,6 @@
 ---
 title: Welcome
-layout: home
+layout: page
 ---
 
 # You are here
