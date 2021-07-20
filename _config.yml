@@ -21,9 +21,9 @@
 title: GSIR Masters Advice
 email: spkb@fc.ritsumei.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  Offering advice on how to prepare a good resaerch proposal
-baseurl: "/masters-advice" # the subpath of your site, e.g. /blog
-url: "https://scokobro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Offering advice on how to prepare a good research proposal
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://scokobro.github.io/masters-advice/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: scokobro
 github_username:  scokobro
 
@@ -52,13 +52,13 @@ kramdown:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
