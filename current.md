@@ -1,5 +1,5 @@
 ---
-title: Current Students
+title: Advice for current Students
 layout: default
 ---
 
@@ -133,21 +133,23 @@ This is a fairly short piece of work but you should use it as an opportunity to 
 * *When* will you do these things?
     * Are there important time-dependent elements of your project (conferences, cultural events, government data releases etc) that happen at certain times?
 
-Whether you manage to stick to it or not, it's important to have a plan. If you have aplan then taleast you can know whether you are on schedule, or behind, or maybe even ahead!
+Whether you manage to stick to it or not, it's important to have a plan. If you have a plan then at least you can know whether you are on schedule, or behind, or maybe even ahead!
 
-Towards the latter half of the semester you need to look ahead and make sure you are prepared to hand in 'Progress Report I'.
+Towards the latter half of the semester you need to think ahead and make sure you are prepared to hand in 'Progress Report I'.
 
 ---
 
 ### Year One: Second Semester
 
-#### Progress Report I (M1 Kenkyū Report)
+#### Progress Report I (*M1 Kenkyū Report*)
 
-Due pretty much at the start of this semester, this is a larger bit of work, about 2000 words. Summarises and elaborates on your research proposal. Probably there will be quite a bit of overlap with the 'Research Plan'.
+Due near the start of this semester, this is a larger piece of work, about 2000 words. It summarises and elaborates on your research proposal. Probably there will be quite a bit of overlap with the 'Research Plan'.
 
-#### Oral Presentation of Thesis Proposal (Shinchoku Hōkokukai) (30mins)
+#### Oral Presentation of Thesis Proposal (*Shinchoku Hōkokukai*) (30mins)
 
-This is a formal presentation of your research project to your adviser and another faculty member who acts as co-adviser. You will have about 15 minutes to present your work, you can use slides and other visual aids, and then there is 15 minutes set aside for Q&A. Generally this will focus on making sure you understand what you are doing, identifying potential problems and areas for improvement, and getting input from you co-adviser, who may be able to offer a new perspective or point out alternative materials and concepts that you might find useful.
+This is a formal presentation of your research project to your adviser and another faculty member (known as the 副査 *fukusa*) who acts as co-adviser. You will have about 15 minutes to present your work, you can use slides and other visual aids, and then there is 15 minutes set aside for Q&A. Generally this will focus on making sure you understand what you are doing, identifying potential problems and areas for improvement, and getting input from you co-adviser, who may be able to offer a new perspective or point out alternative materials and concepts that you might find useful.
+
+It is a good idea if you can identify a faculty member you would like to act as your *fukusa* as you take your various courses; maybe there is a sensei with good regional, or theoretical knowledge who you think will be able to offer you useful advice.
 
 ---
 
@@ -165,14 +167,16 @@ Towards the end of the semester, or over the break, start to prepare for the 'Fi
 
 You will graduate (assuming everything goes to plan!) at the end of this semester. This is quite a busy semester for you. There are a couple of things you will need to be prepared for.
 
-#### 1. Final Oral Presentation (Saishū Hōkoku-kai)
+#### 1. Final Oral Presentation (*Saishū Hōkoku-kai*)
 
 30 minutes; 15 mins presentation summarising your work, 15 mins for Q+A with your adviser and sub-adviser.
 
 This is a final chance to run your work past the eyes of your adviser and another faculty co-adviser.
 
-#### 2. Thesis Submission; 15-20000 words. See below for advice.
+#### 2. Thesis Submission; 15-20,000 words
+
+See below for advice
 
 #### 3. Oral Defence
 
-This takes place a couple of weeks after the submission of your thesis. It is officially speaking an exam and the rules for this presentation differ from previous ones somewhat.
+This takes place a couple of weeks after the submission of your thesis. It is officially speaking an exam and the rules for this presentation differ from previous ones somewhat; there are no electronic aids allowed, though you are allowed to create handouts for your adviser and co-adviser. And of course everyone concerned will have your thesis so you can refer to that too.

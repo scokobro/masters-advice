@@ -82,7 +82,7 @@ The masters in Japan is somewhat different to that in other countries and unders
 
 At masters level we are beginning to specialise, a masters thesis therefore should aim to look at a topic 'in depth' and provide analysis and insight, it should not be merely a description or survey of a topic area. You need to start to a) have an accurate understanding of your topic, and b) be able to say what (roughly speaking) it 'means'. Many proposals are far too 'broad' to allow the student to spend time going 'deep'.
 
-[^jpnz]: The MA is officially known as the 博士課程前期課程 (**hakase-katei zenki-katei**), with an actual PhD being the 後期課程 (**kōki-katei**).
+[^jpnz]: The MA is officially known as the 博士課程前期課程 (*hakase-katei zenki-katei*), with an actual PhD being the 後期課程 (*kōki-katei*).
 
 ### Be concise
 
@@ -110,6 +110,8 @@ It doesn't make a good impression for a variety of reason; let's take it apart a
 
 This might seem like nit-picking but if you are intending on embarking on study at masters level you need to get into the habit of focussing on detail, being accurate in your use of language, approaching concepts and information in a 'critical'[^crit] manner and becoming generally more disciplined in your thinking and expression.
 
-[^cult]: Here's a hint; there is no definition of 'culture' shared by academia. It either means something like "everything humans do that monkeys don't", which makes it far to broad for any one academic discipline to deal with and thus useless as an academic term, OR, we have to draw arbitrary line around it, including some things and excluding other because we feel like it. This again is a bit rubbish!
+---
+
+[^cult]: Here's a hint; there is no definition of 'culture' shared by academia. It either means something like "everything humans do that monkeys don't", which makes it far to broad for any one academic discipline to deal with and thus useless as an academic term, OR, we have to draw an arbitrary line around it, including some things and excluding other because we feel like it. This again is a bit rubbish!
 
 [^crit]: This doesn't mean 'negative' it means not accepting things at face value, not unthinkingly accepting what 'everyone says' or 'everyone knows' as being accurate or the best understanding possible of something.
