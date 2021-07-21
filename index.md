@@ -9,7 +9,7 @@ There are many ways to apply to do a masters at Ritsumeikan's Graduate School of
 
 # Making your application
 
-The centre of your applications will probably be your 'research proposal'; the sections below will give you some hints on how (and how *not*) to write this. However that is not all we look at; also remember to tell us about any of your past academic work that is relevant to your proposal. We also need to have an understanding of your language skills and experience living in Japan. It's very difficult to carry out research in Japan or on Japan without a degree of ability with the Japanese language, this is especially the case if you are planning to rely on methods which require a high degree of language ability; maybe you need to read material pre-war archives, or carry out interviews on a sensitive subject.
+The centre of your applications will probably be your 'research proposal'; the sections below will give you some hints on how (and how *not*) to write this. However that is not all we look at; also remember to tell us about any of your past academic work that is relevant to your proposal. We also need to have an understanding of your language skills and experience living in Japan. It's very difficult to carry out research in Japan or on Japan without a degree of ability with the Japanese language, this is especially the case if you are planning to rely on methods which require a high degree of language ability; maybe you need to read material from pre-war archives, carry out interviews on a sensitive subject, or understand the cultural connotations of words and phrases.
 
 It also helps us to understand how a masters degree fits into your larger plans; how do you intend to use it? How will it contribute to your development, either professionally or as a person?
 
@@ -21,7 +21,7 @@ If you are starting out on a subject that is entirely new to you should be aware
 
 It will help you to include a detailed [literature review](https://libguides.usc.edu/writingguide/literaturereview) of as many academic works related to the subject you can get access to. Your review should assess their strengths, weaknesses and their value with regards to your proposed topic.
 
-You should also be aware that academics, and university departments, are often arranged by '[discipline](https://en.wikipedia.org/wiki/Academic_discipline)'; make sure you have some kind of idea what disciplinary area your resaerch proposal fits into, this may not be immediately obvious to you so make sure you do some background research before you make your proposal and choose a potential adviser.
+You should also be aware that academics, and university departments, are often arranged by '[discipline](https://en.wikipedia.org/wiki/Academic_discipline)'; make sure you have some kind of idea what disciplinary area your research proposal fits into, this may not be immediately obvious to you so make sure you do some background reading before you make your proposal and choose a potential adviser.
 
 In order to do this it may help to think about the 'thing' you are proposing to study, and then about 'what kind of thing' it is; for instance, is the question about 'a certain group of people', or is it about 'a certain time period', or a particular 'place'? Where will you look, or what will you look at to find the answer to your question?
 
@@ -32,7 +32,9 @@ Depending on your question you may have to look;
 4. certain groups of people within a society
 5. etc etc etc...
 
-This part of your proposal will often be formulated in terms of a 'research question'; this is the central question you will be trying to answer by doing your project.
+When you have an idea of where your question/topic fits in the world of academic activity you will be able to identify the terminology you need to be using. Words can have quite different implications depending on the disciplinary area in which they are used, you need to make sure you are using the right terms for your subject area. 
+
+This central part of your proposal will often be formulated in terms of a 'research question'; this is the central question you will be trying to answer by doing your project.
 
 Your first task is to explain **what** you will research.
 
