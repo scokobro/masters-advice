@@ -6,11 +6,11 @@ layout: default
 
 # Current Students
 
-Along with working to gain the necessary credits to graduate you will need to schedule time to work on your own research project and write you graduation thesis; this is due at the end of your second year but there are a number of intermediate step designed to get you there. This section outlines those steps and offers some brief advice on how to approach them.
+Along with working to gain the necessary credits to graduate you will need to schedule time to work on your own research project and write you graduation thesis; this is due at the end of your second year but there are a number of intermediate steps designed to get you there. This section outlines those steps and offers some brief advice on how to approach them.
 
 ## Scheduled tasks
 
-Once you have been accepted to GSIR you will go through the two-year master program along with your fellow students. There are a number of submissions and presentations that you will prepare along the way, this is what the two-year flow looks like (if you're starting in April), more details and advice below.
+Once you have been accepted to GSIR you will go through the two-year masters program along with your fellow students. There are a number of submissions and presentations that you will prepare along the way, this is what the two-year flow looks like (if you're starting in April), more details and advice below.
 
 <table cellspacing="0" border="0">
 	<colgroup span="2" width="41"></colgroup>
@@ -171,11 +171,11 @@ You will graduate (assuming everything goes to plan!) at the end of this semeste
 
 30 minutes; 15 mins presentation summarising your work, 15 mins for Q+A with your adviser and sub-adviser.
 
-This is a final chance to run your work past the eyes of your adviser and another faculty co-adviser.
+This is a final chance to run your work past the eyes of your adviser and another faculty co-adviser. Ideally, by this point your thesis will be 80-90 per cent finished and this is an opportunity to check that you are on course to graduate at the end of the semester.
 
 #### 2. Thesis Submission; 15-20,000 words
 
-See below for advice
+See [here](./thesis.html) for advice.
 
 #### 3. Oral Defence
 
