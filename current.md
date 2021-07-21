@@ -10,7 +10,7 @@ Along with working to gain the necessary credits to graduate you will need to sc
 
 ## Scheduled tasks
 
-Once you have been accepted to GSIR you will go through the two-year master program along with your fellow students. This is what the entire process looks like (if you're starting in April), more details and advice below.
+Once you have been accepted to GSIR you will go through the two-year master program along with your fellow students. There are a number of submissions and presentations that you will prepare along the way, this is what the two-year flow looks like (if you're starting in April), more details and advice below.
 
 <table cellspacing="0" border="0">
 	<colgroup span="2" width="41"></colgroup>
@@ -175,4 +175,4 @@ This is a final chance to run your work past the eyes of your adviser and anothe
 
 #### 3. Oral Defence
 
-This takes place a couple of weeks after the submission of your thesis.
+This takes place a couple of weeks after the submission of your thesis. It is officially speaking an exam and the rules for this presentation differ from previous ones somewhat.
