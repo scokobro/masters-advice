@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site was created by faculty at GSIR as a place to share advice with prospective and current MA students.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The information here is intended to be informal advice only, different members of faculty may have different approaches and opinions, your adviser's advice and opinion should be given priority over anything you read here.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Similarly, this advice is 'unofficial' and information from the GSIR administrative office should be given priority.
 
-
-[jekyll-organization]: https://github.com/jekyll
+**Good luck with your application!**
