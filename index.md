@@ -32,13 +32,15 @@ Depending on your question you may have to look;
 4. certain groups of people within a society
 5. etc etc etc...
 
+This part of your proposal will often be formulated in terms of a 'research question'; this is the central question you will be trying to answer by doing your project.
+
 Your first task is to explain **what** you will research.
 
 ## The "So what?" question
 
-After you have decided on the what, you have to deal with the more difficult questions of "why" and "how". So, another thing to take into account is; 'does this question have an answer, and is that answer interesting?'
+After you have decided on the what, you have to deal with the more difficult questions of "why" and "how". Another thing to take into account is; 'does this question have an answer, and is that answer interesting?'
 
-At some point during your studies, someone will ask you what is often the most difficult question to answer, this is "So what?" In other words, how does answering this question actually help us understand the world around us? Why is it important for us to understand this? So, it's useful (actually, essential!) for you to think about this as you formulate your research project.
+At some point during your studies, someone will ask you what is often the most difficult question to answer, this is "So what?" In other words, how does answering this question actually help us understand the world around us? Why is it important for us (human beings) to understand this? So, it's useful (actually, essential!) for you to think about this as you formulate your research project.
 
 It might be somewhat disturbing to hear this but one of the main things we learn from finding out how to do research and to carry out a reliable and valid research project is that (often) we don't actually know as much as we thought we knew, we don't understand things as well as we thought we did. We go from often being pretty confident about what we know/understand to being *less* confident! Eventually, when we are very old and wise and have spent a life thinking and asking 'good questions', we end up like [Socrates](https://plato.stanford.edu/entries/socrates/), who is supposed to have said, 'I know that I know nothing'!
 
@@ -51,7 +53,7 @@ If accepted you will have two years to carry out your research project. Your app
 Think hard about the resources you will require;
 1. **Does the the resource actually exist?** - This may seem like an odd things to say but if you want to study, for example, 'changes in gender representation in Japanese television advertising from the 1990s to the present', then you will have to somehow view those advertisements... do recordings exist?
 2. **Can you get access to these resources?** - Once you've established that a resource exists you'll have to work out how/if you can access it: Where is it? Does it require payment? Is it in a language you can handle?
-3. Do you need any training to use the resource? Does it require any special skills to access?
+3. **Do you need any training to use the resource?** Does it require any special skills to access? Does it require you to use a particular piece of specialised software or equipment?
 
 ## General Advice
 
@@ -99,6 +101,6 @@ It doesn't make a good impression for a variety of reason; let's take it apart a
 
 This might seem like nit-picking but if you are intending on embarking on study at masters level you need to get into the habit of focussing on detail, being accurate in your use of language, approaching concepts and information in a 'critical'[^crit] manner and becoming generally more disciplined in your thinking and expression.
 
-[^cult]: Here's a hint; there is no definition of 'culture' shared by academia. It either means something like "everything humans do that monkeys don't", which make it far to broad for any one academic discipline to deal with and thus useless as an academic term, OR, we have to draw arbitrary line around it, including some things and excluding other because we feel like it. This again is a bit rubbish!
+[^cult]: Here's a hint; there is no definition of 'culture' shared by academia. It either means something like "everything humans do that monkeys don't", which makes it far to broad for any one academic discipline to deal with and thus useless as an academic term, OR, we have to draw arbitrary line around it, including some things and excluding other because we feel like it. This again is a bit rubbish!
 
 [^crit]: This doesn't mean 'negative' it means not accepting things at face value, not unthinkingly accepting what 'everyone says' or 'everyone knows' as being accurate or the best understanding possible of something.
