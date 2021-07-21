@@ -1,5 +1,5 @@
 ---
-title: Advice for current Students
+title: Advice for Current Students
 layout: default
 ---
 

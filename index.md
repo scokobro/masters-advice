@@ -76,11 +76,11 @@ To list up some things you should bear in mind:
 
 ### Originality
 
-The masters in Japan is somewhat different to that in other countries and understanding this will help you apply. As you already know, it is a two-year program. In Japanese these two years are thought of as the preparatory years for moving on to do a PhD[^jpnz]. Perhaps because of this there is an 'originality' requirement which may not be present in other country's systems. That is, research at MA level is required to be 'in some way' original, this might be the actual topic, the theoretical approach taken, or the methods employed.
+The masters in Japan is somewhat different to that in other countries and understanding this will help you apply. As you already know, it is a two-year program. In Japanese these two years are thought of as the preparatory years for progressing to a PhD[^jpnz]. Perhaps because of this there is an 'originality' requirement which may not be present in other country's systems. That is, research at MA level is required to be 'in some way' original, this might be the actual topic, the theoretical approach taken, or the methods employed.
 
 ### Depth vs breadth
 
-At masters level we are beginning to specialise, a masters thesis therefore should aim to look at a topic 'in depth' and provide analysis and insight, it should not be merely a description or survey of a topic area. You need to start to a) have an accurate understanding of your topic, and b) be able to say what (roughly speaking) it 'means'. Many proposals are far too 'broad' to allow the student to spend time going 'deep'.
+At masters level we are beginning to specialise, a masters thesis therefore should aim to look at a topic 'in depth' and provide analysis and insight, it should not be merely a description or survey of a topic area. You need to start to a) have an accurate understanding of your topic, and b) be able to say what (roughly speaking) it 'means'. Many proposals are far too 'broad' to allow the student to spend time going 'deep'. Aim to go 'narrow' and 'deep'.
 
 [^jpnz]: The MA is officially known as the 博士課程前期課程 (*hakase-katei zenki-katei*), with an actual PhD being the 後期課程 (*kōki-katei*).
 
