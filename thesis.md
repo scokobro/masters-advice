@@ -29,13 +29,13 @@ From the Handbook:
 
 **Substance Evaluation**
 
-4. Be sufficiently grounded on previous academic work in the relevant field
-5. In the case of empirical research: must demonstrate an accurate understanding of the facts. For theoretical research: must
+4) Be sufficiently grounded on previous academic work in the relevant field
+5) In the case of empirical research: must demonstrate an accurate understanding of the facts. For theoretical research: must
 contain a well-organized outline of theories and critical review
-6. Be organized appropriately into chapters, sections etc., and show logical consistency (logical development and linkage
+6) Be organized appropriately into chapters, sections etc., and show logical consistency (logical development and linkage
 of each chapter/section)
-7. Demonstrate creativity (new points of view and new findings)
-8. Be defended through appropriate responses during the oral defense (*kōtō shimon*)
+7) Demonstrate creativity (new points of view and new findings)
+8) Be defended through appropriate responses during the oral defense (*kōtō shimon*)
 
 
 # Advice regarding these Criteria
