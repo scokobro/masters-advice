@@ -9,7 +9,7 @@ There are many ways to apply to do a masters at Ritsumeikan's Graduate School of
 
 # Making your application
 
-The centre of your applications will probably be your 'research proposal'; the sections below will give you some hints on how (and how *not*) to write this. However that is not all we look at; also remember to tell us about any of your past academic work that is relevant to your proposal. We also need to have an understanding of your language skills and experience living in Japan. It's very difficult to carry out research in Japan or on Japan without a degree of ability with the Japanese language, this is especially the case if you are planning to rely on methods which require a high degree of language ability; maybe you need to read material from pre-war archives, carry out interviews on a sensitive subject, or understand the cultural connotations of words and phrases.
+The centre of your applications will probably be your 'research proposal'; the sections below will give you some hints on how (and how *not* ) to write this. However that is not all we look at; also remember to tell us about any of your past academic work that is relevant to your proposal. We also need to have an understanding of your language skills and experience living in Japan. It's very difficult to carry out research in Japan or on Japan without a degree of ability with the Japanese language, this is especially the case if you are planning to rely on methods which require a high degree of language ability; maybe you need to read material from pre-war archives, carry out interviews on a sensitive subject, or understand the cultural connotations of words and phrases.
 
 It also helps us to understand how a masters degree fits into your larger plans; how do you intend to use it? How will it contribute to your development, either professionally or as a person?
 
@@ -32,7 +32,7 @@ Depending on your question you may have to look;
 4. certain groups of people within a society
 5. etc etc etc...
 
-When you have an idea of where your question/topic fits in the world of academic activity you will be able to identify the terminology you need to be using. Words can have quite different implications depending on the disciplinary area in which they are used, you need to make sure you are using the right terms for your subject area. 
+When you have an idea of where your question/topic fits in the world of academic activity you will be able to identify the terminology you need to be using. Words can have quite different implications depending on the disciplinary area in which they are used, you need to make sure you are using the right terms for your subject area.
 
 This central part of your proposal will often be formulated in terms of a 'research question'; this is the central question you will be trying to answer by doing your project.
 
