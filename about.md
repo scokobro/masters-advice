@@ -1,7 +1,6 @@
 ---
 layout: default
 title: About
-permalink: /about/
 ---
 
 This site was created by faculty at GSIR as a place to share advice with prospective and current MA students.
