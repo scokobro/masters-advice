@@ -74,10 +74,19 @@ To list up some things you should bear in mind:
 * Does answering the question actually help us understand the world any better?
 * Why would we (human beings in general, not *you*) want to know the answer to this question?
 
+### Originality
+
+The masters in Japan is somewhat different to that in other countries and understanding this will help you apply. As you already know, it is a two-year program. In Japanese these two years are thought of as the preparatory years for moving on to do a PhD[^jpnz]. Perhaps because of this there is an 'originality' requirement which may not be present in other country's systems. That is, research at MA level is required to be 'in some way' original, this might be the actual topic, the theoretical approach taken, or the methods employed.
+
+### Depth vs breadth
+
+At masters level we are beginning to specialise, a masters thesis therefore should aim to look at a topic 'in depth' and provide analysis and insight, it should not be merely a description or survey of a topic area. You need to start to a) have an accurate understanding of your topic, and b) be able to say what (roughly speaking) it 'means'. Many proposals are far too 'broad' to allow the student to spend time going 'deep'.
+
+[^jpnz]: The MA is officially known as the 博士課程前期課程 (**hakase-katei zenki-katei**), with an actual PhD being the 後期課程 (**kōki-katei**).
+
 ### Be concise
 
 The application has a word limit, do not waste words. You should be concentrating on making your proposal as solid as possible; don't waste words telling us how you feel, how you *feel* about your project should be expressed through the attention to detail and thoughtfulness you exhibit in your application. If you want us to understand that you are passionate about a certain issue or topic it is better to *show* us than to simply tell us.
-
 
 # An example
 
