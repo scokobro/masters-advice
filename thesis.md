@@ -86,3 +86,14 @@ Also, if you are not aware of the concept of 'signposting' in English-language w
 
 
 ## 8) Oral Defense
+
+
+# IMPORTANT!
+
+## Plagiarism
+
+This is not mentioned in an of the criteria above but it is something that anyone how advises you will check for; plagiarism (or other forms of academic dishonesty). Put very simply, plagiarism is 'academic theft', it is passing someone else's work (words) off as your own. If you include a 'direct quote' (that is you use the actual words) from a source (an academic article, a blog, a newspaper, anything!) you *must* enclose those words in quotation marks and include a citation to the source at the end of the quote. Failure to do so constitutes plagiarism and may result in disciplinary action from there department or university.
+
+## Language checks
+
+At very least, remember to spellcheck your thesis; but you also need to read it through carefully, after all the words 'dairy' and 'diary' are both spelled correctly but you probably don't want to mix them up!
