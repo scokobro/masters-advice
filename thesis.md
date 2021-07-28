@@ -83,16 +83,24 @@ Also, if you are not aware of the concept of 'signposting' in English-language w
 
 ## 7) Creativity
 
+Luckily nobody really knows what this is![^creat] If we look at the list of words mentioned in an English-language thesaurus...
 
+> **creativity**
+> *noun*
+> [...] inventiveness, imagination, imaginativeness, innovation, innovativeness, originality, individuality; artistry, expressiveness, inspiration, vision, creative power, creative talent, creative gift, creative skill, resourcefulness, ingenuity, enterprise.
+
+you can probably work out what this criteria is getting at. I would say that what we are looking for is 'insight', that is, an awareness of the meaning and implications of facts and ideas and the ability to link this awareness to a deeper or more thorough understanding of the problem or topic under investigation, perhaps linking on again to innovative solutions.
+
+[^creat]: Check out the [wikipedia page](https://en.wikipedia.org/wiki/Creativity) for a taste of the breadth and diversity of the debate.
 
 ## 8) Oral Defense
 
+As long as you have written your own thesis and you *understand* what you have written then this should not be a major hurdle for you. You will be asked to present your research; to summarise the main questions, to describe the theoretical approaches adopted, to justify your chosen methodology and to explain and reflect on your results and conclusions. This is helpful to the examiners as it allows us/them to get a better understanding of what you have learned from your research and to 
 
-# IMPORTANT!
 
-## Plagiarism
+# Plagiarism
 
-This is not mentioned in an of the criteria above but it is something that anyone how advises you will check for; plagiarism (or other forms of academic dishonesty). Put very simply, plagiarism is 'academic theft', it is passing someone else's work (words) off as your own. If you include a 'direct quote' (that is you use the actual words) from a source (an academic article, a blog, a newspaper, anything!) you *must* enclose those words in quotation marks and include a citation to the source at the end of the quote. Failure to do so constitutes plagiarism and may result in disciplinary action from there department or university.
+This is not mentioned in an of the criteria above but it is something that anyone how advises you will check for; plagiarism (or other forms of academic dishonesty). Put very simply, plagiarism is 'academic theft', it is passing someone else's work (words, ideas etc) off as your own. If you include a 'direct quote' ---  you use the actual words --- from a source (an academic article, a blog, a newspaper, anything!) you _must_ enclose those words in quotation marks and include a citation to the source at the end of the quote. Failure to do so constitutes plagiarism and may result in disciplinary action by the department or university.
 
 Most universities have some sort of webpage that explains plagiarism, try [Oxford Uni's page](https://www.ox.ac.uk/students/academic/guidance/skills/plagiarism) for a good overview (obviously, the section covering disciplinary action is not relevant to GSIR students).
 
