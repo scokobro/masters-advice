@@ -120,9 +120,9 @@ Once you have been accepted to GSIR you will go through the two-year masters pro
 	</tr>
 </tbody></table>
 
-You can download the spring start and autumn start schedules as PDFs here:
-• [Spring Start Schedule](./img/spring.pdf)
-• [Autumn Start Schedule](./img/autumn.pdf)
+You can download the spring start and autumn start schedules as PDFs here:\
+• [Spring Start Schedule](./img/spring.pdf)\
+• [Autumn Start Schedule](./img/autumn.pdf)\
 
 ### Year One: First Semester
 
