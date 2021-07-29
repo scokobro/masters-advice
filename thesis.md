@@ -25,7 +25,7 @@ From the Handbook:
 
 1) Fulfill requirements regarding the required number of words\
 2) Be formatted appropriately (for example, the sources of diagrams must be noted, appropriate footnotes and citations, etc.)\
-3) Include an attached abstract\
+3) Include an attached abstract
 
 **Substance Evaluation**
 
