@@ -34,7 +34,7 @@ From the Handbook:
 4) Be sufficiently grounded on previous academic work in the relevant field<br>
 5) In the case of empirical research: must demonstrate an accurate understanding of the facts. For theoretical research: must contain a well-organized outline of theories and critical review<br>
 6) Be organized appropriately into chapters, sections etc., and show logical consistency (logical development and linkage of each chapter/section)<br>
-7) Demonstrate creativity (new points of view and new findings)\
+7) Demonstrate creativity (new points of view and new findings)<br>
 8) Be defended through appropriate responses during the oral defense (<em>kōtō shimon</em>)<br>
 
 </div>
