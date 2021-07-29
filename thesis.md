@@ -23,38 +23,47 @@ From the Handbook:
 
 **Formality requirements**
 
-1) Fulfill requirements regarding the required number of words
-
-2) Be formatted appropriately (for example, the sources of diagrams must be noted, appropriate footnotes and citations, etc.)
-
-3) Include an attached abstract
+1) Fulfill requirements regarding the required number of words\
+2) Be formatted appropriately (for example, the sources of diagrams must be noted, appropriate footnotes and citations, etc.)\
+3) Include an attached abstract\
 
 **Substance Evaluation**
 
-4) Be sufficiently grounded on previous academic work in the relevant field
-
-5) In the case of empirical research: must demonstrate an accurate understanding of the facts. For theoretical research: must contain a well-organized outline of theories and critical review
-
-6) Be organized appropriately into chapters, sections etc., and show logical consistency (logical development and linkage of each chapter/section)
-
-7) Demonstrate creativity (new points of view and new findings)
-
+4) Be sufficiently grounded on previous academic work in the relevant field\
+5) In the case of empirical research: must demonstrate an accurate understanding of the facts. For theoretical research: must contain a well-organized outline of theories and critical review\
+6) Be organized appropriately into chapters, sections etc., and show logical consistency (logical development and linkage of each chapter/section)\
+7) Demonstrate creativity (new points of view and new findings)\
 8) Be defended through appropriate responses during the oral defense (*kōtō shimon*)
-
 
 # Advice regarding these Criteria
 
 ## 1) Length
 
-This is straightforward; a masters thesis has to be of a certain size, the idea is that you demonstrate your ability to create a consistent piece of work which brings together diverse elements in a logical manner.
+This is straightforward; a masters thesis has to be of a certain size, the idea is that you demonstrate your ability to create a consistent piece of work which brings together diverse elements in a logical manner. Text that you have created counts towards the word total (the main text, headings, footnotes), the words in your references don't.
+
+It's a good idea to bear in mind this total when you are planning your writing; how do you want to weight your sections? Make a rough word-count plan for each of your sections and subsections if you can. Generally speaking the assumption is that the more words you decide to use for a certain topic, the more important you think it is. So roughly speaking 'number of words' = 'importance'.
 
 ## 2) Formatting
 
-The official guidance here is vague. My suggestion would be that your work should, in many ways, look like an academic book.
+The official guidance here is vague. My suggestion would be that your work should, in many ways, look like an academic book. My (totally unofficial) guidance would be as follows:
+
+* Use *one* font throughout, make sure it is a font appropriate for an English-language book, eg Times New Roman, Baskerville etc
+* The main text font size should be 10.5 or 11pt.
+* Paragraphs are marked by either indenting the first line or leaving an empty line, don't do both.
+* Paragraphs should be 'justified' or 'ragged right'. Your bibliography should *not* be justified.
+* All figures, charts, illustrations etc need to be numbered (so you can refer to them in your text) and have an explanatory caption which, if necessary, makes clear the source(s).
+* Sections, sub-sections and sub-sub-sections *can* be numbered but this is *not required*. You choose.
+* Citations and references should follow the [APA style](https://apastyle.apa.org/style-grammar-guidelines/references/examples).
+* Page margins should be set to 2cm.
+* Page headers are generally unnecessary in a piece of writing of this length.
+* Page footers should contain the page number
+* 1.5 line spacing; double-spacing is generally too much unless your adviser is giving you handwritten feedback and comments.
+
+You can download my informal 'formatting suggestions' MSWord document [here](./imgs/format.docx). It attempts to embody the guidelines given here and add a few more visual pointers (if you spot any mistakes, please let me know!)
 
 ## 3) Abstract
 
-The role of an abstract is to allow the person reading it to get an idea of what the work says; it is a highly compressed version of the whole thesis. It includes mentions of the theoretical approaches involved, the research question, the methodologies and data used, the results and, briefly, the important findings and conclusions of the work.
+The role of an abstract is to allow the person reading it to get an idea of what the work says; it is a highly compressed version of the whole thesis. It includes mentions of the theoretical approaches involved, the research question, the methodologies and data used, the results and, briefly, the important findings and conclusions of the work. Write this last.
 
 ## 4) Literature Review
 
@@ -83,7 +92,7 @@ Also, if you are not aware of the concept of 'signposting' in English-language w
 
 ## 7) Creativity
 
-Luckily nobody really knows what this is![^creat] If we look at the list of words mentioned in an English-language thesaurus...
+Luckily, nobody really knows what this is![^creat] If we look at the list of words mentioned in an English-language thesaurus...
 
 > **creativity**
 > *noun*
@@ -95,10 +104,13 @@ you can probably work out what this criteria is getting at. I would say that wha
 
 ## 8) Oral Defense
 
-As long as you have written your own thesis and you *understand* what you have written then this should not be a major hurdle for you. You will be asked to present your research; to summarise the main questions, to describe the theoretical approaches adopted, to justify your chosen methodology and to explain and reflect on your results and conclusions. This is helpful to the examiners as it allows us/them to get a better understanding of what you have learned from your research and to 
+As long as you have written your own thesis and you *understand* what you have written then this should not be a major hurdle for you. You will be asked to present your research; to summarise the main questions, to describe the theoretical approaches adopted, to justify your chosen methodology and to explain and reflect on your results and conclusions. This is helpful to the examiners as it allows us/them to get a better understanding of what you have learned from carrying out your research project.
 
+---
 
-# Plagiarism
+# Other advice
+
+## Plagiarism
 
 This is not mentioned in an of the criteria above but it is something that anyone how advises you will check for; plagiarism (or other forms of academic dishonesty). Put very simply, plagiarism is 'academic theft', it is passing someone else's work (words, ideas etc) off as your own. If you include a 'direct quote' ---  you use the actual words --- from a source (an academic article, a blog, a newspaper, anything!) you _must_ enclose those words in quotation marks and include a citation to the source at the end of the quote. Failure to do so constitutes plagiarism and may result in disciplinary action by the department or university.
 
@@ -106,4 +118,16 @@ Most universities have some sort of webpage that explains plagiarism, try [Oxfor
 
 ## Language checks
 
-At very least, remember to spellcheck your thesis; but you also need to read it through carefully, after all the words 'dairy' and 'diary' are both spelled correctly but you probably don't want to mix them up!
+At very least, remember to spellcheck your thesis; but you also need to read it through carefully, after all, the words 'dairy' and 'diary' are both spelled correctly but you probably don't want to mix them up!
+
+## Writing
+
+You will have to find a way of working that works for you; there are lots of guides available that give you hints as to how to go about dealing with the problems that academic writers encounter. I personally found ...
+
+> Dunleavy, P. (2003). *Authoring a PhD: How to plan, draft, write and finish a doctoral thesis or dissertation*. Palgrave Macmillan, Basingstoke.
+
+very useful. As you can see from the title it is aimed mainly at PhD students but it contains a lot of really useful general writing advice. Our department also uses...
+
+> Booth, W. C., Colomb, G. G., and Williams, J. M. (2003). *The craft of research (Chicago guides to writing, editing, and publishing)*. University Of Chicago Press, Chicago IL.
+
+but I haven't used it personally.
