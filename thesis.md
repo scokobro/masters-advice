@@ -88,11 +88,11 @@ There are two aspects to this:
 
 The first is sometimes quite difficult and requires you to have a good overall picture of the various elements of your work and how they fit together and complement one another. Part of the difficulty emerges from the fact that you will have to turn a selection, a network(?), of various things --- theories, facts. methodologies etc --- into a thesis, which is a linear piece of writing. So, 1 and 2 above might be pulling you in different directions and your task is to reach some compromise and present your work in a way that makes sense in a linear way.
 
-One way to achieve this compromise --- to allow two structures at once, if you like --- is to use plenty of internal cross-references, for example, where necessary include a cross-reference pointing your readers to the relevant bit of your literature review (eg. "For a discussion of this issue see section 2.3"), or to the relevant data, etc. This will rather depend on your writing have an easy to understand 'presentational organisation' too; discuss with your adviser how this can be achieved and how you should format things as preferences and traditions vary across disciplines; for instance, I am happy to see numbered sections and sub-sections, some people find them abhorrent!
+One way to achieve this compromise --- to allow two structures at once, if you like --- is to use plenty of internal cross-references, for example, where necessary include a cross-reference pointing your readers to the relevant bit of your literature review (eg. "For a discussion of this issue see section 2.3", "I dealt with this issue in detail in subsection 1.2"), or to the relevant data, etc. This will rather depend on your writing have an easy to understand 'presentational organisation' too; discuss with your adviser how this can be achieved and how you should format things as preferences and traditions vary across disciplines; for instance, I am happy to see numbered sections and sub-sections, some people find them abhorrent!
 
 However you decide to do it you will have to find a way to demonstrate your organisations and communicate it to your readers.
 
-Also, if you are not aware of the concept of 'signposting' in English-language writing, please take some time to get up to speed as it is quite important and will help you present your work in an organised way, and help your reader follow your argument.
+Also, if you are not aware of the concept of 'signposting' in English-language writing, please take some time to get up to speed as it is quite important and will help you present your work in an organised and logical way, and help your reader follow your argument.
 
 ## 7) Creativity
 
@@ -135,3 +135,11 @@ very useful. As you can see from the title it is aimed mainly at PhD students bu
 > Booth, W. C., Colomb, G. G., and Williams, J. M. (2003). *The craft of research (Chicago guides to writing, editing, and publishing)*. University Of Chicago Press, Chicago IL.
 
 but I haven't used it personally.
+
+At a very basic level I often recommend the 'Topic-Body-Wrap' structure to students; each paragraph looks like this...
+
+1. Topic sentence - this tells the reader what they will be reading about in the current paragraph.
+2. Body sentences - this is the main body of the paragraph where you tell the reader all the useful and insightful things you want them to know and understand.
+3. Wrap sentence - this concludes the paragraph and summarises for the reader what you just told them and why it is important for them to understand this, that is, what the point of the paragraph was.
+
+This is not the answer to all writing problems but it's a good (and very simple) way to maintain your self-discipline and keep your writing focussed.
