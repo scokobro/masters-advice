@@ -25,17 +25,17 @@ From the Handbook:
 
 <h3>Formality requirements</h3>
 
-1) Fulfill requirements regarding the required number of words</br>
-2) Be formatted appropriately (for example, the sources of diagrams must be noted, appropriate footnotes and citations, etc.)</br>
-3) Include an attached abstract</br>
+1) Fulfill requirements regarding the required number of words<br>
+2) Be formatted appropriately (for example, the sources of diagrams must be noted, appropriate footnotes and citations, etc.)<br>
+3) Include an attached abstract<br>
 
 <h3>Substance Evaluation</h3>
 
-4) Be sufficiently grounded on previous academic work in the relevant field</br>
-5) In the case of empirical research: must demonstrate an accurate understanding of the facts. For theoretical research: must contain a well-organized outline of theories and critical review</br>
-6) Be organized appropriately into chapters, sections etc., and show logical consistency (logical development and linkage of each chapter/section)</br>
+4) Be sufficiently grounded on previous academic work in the relevant field<br>
+5) In the case of empirical research: must demonstrate an accurate understanding of the facts. For theoretical research: must contain a well-organized outline of theories and critical review<br>
+6) Be organized appropriately into chapters, sections etc., and show logical consistency (logical development and linkage of each chapter/section)<br>
 7) Demonstrate creativity (new points of view and new findings)\
-8) Be defended through appropriate responses during the oral defense (<em>kōtō shimon</em>)</br>
+8) Be defended through appropriate responses during the oral defense (<em>kōtō shimon</em>)<br>
 
 </div>
 
