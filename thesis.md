@@ -59,7 +59,7 @@ The official guidance here is vague. My suggestion would be that your work shoul
 * Page footers should contain the page number
 * 1.5 line spacing; double-spacing is generally too much unless your adviser is giving you handwritten feedback and comments.
 
-You can download my informal 'formatting suggestions' MSWord document [here](./imgs/format.docx). It attempts to embody the guidelines given here and add a few more visual pointers (if you spot any mistakes, please let me know!)
+You can download my informal 'formatting suggestions' as an [MSWord](./img/format.docx) document or [PDF](./img/format.pdf). It attempts to embody the guidelines given here and add a few more visual pointers (if you spot any mistakes, please let me know!)
 
 ## 3) Abstract
 
