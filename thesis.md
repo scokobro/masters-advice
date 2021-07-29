@@ -21,6 +21,8 @@ If you want/need to write more than 20,000 words, you will need to get permissio
 
 From the Handbook:
 
+<div style="background-color:#efefef;padding:1em;margin-bottom:1em;border-radius:8px;">
+
 **Formality requirements**
 
 1) Fulfill requirements regarding the required number of words\
@@ -34,6 +36,8 @@ From the Handbook:
 6) Be organized appropriately into chapters, sections etc., and show logical consistency (logical development and linkage of each chapter/section)\
 7) Demonstrate creativity (new points of view and new findings)\
 8) Be defended through appropriate responses during the oral defense (*kōtō shimon*)
+
+</div>
 
 # Advice regarding these Criteria
 
