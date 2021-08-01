@@ -77,7 +77,7 @@ If you want to know more about literature reviews and how to write them Google a
 
 ## 5) Hmmm...
 
-This criteria seems to be an artefact of the original Japanese language phrasing. It's unlikely that anyone will be writing a thesis that is ONLY theory or ONLY empirical, so what we have to assume here is that this criteria ultimately means; make sure your facts and figures are accurate and up-to-date, and make sure you have chosen appropriate theoretical approaches for reasons which you understand and are able to justify.
+This criteria seems to be an artefact of the original Japanese language phrasing. It's unlikely that anyone will be writing a thesis that is ONLY theory or ONLY empirical, so what we have to assume here is that this criteria ultimately means make sure your facts and figures are accurate and up-to-date, and make sure you have chosen appropriate theoretical approaches for reasons which you understand and are able to justify. Be accurate, be logical.
 
 ## 6) Organisation
 
