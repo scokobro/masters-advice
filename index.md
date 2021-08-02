@@ -15,7 +15,7 @@ It also helps us to understand how a masters degree fits into your larger plans;
 
 ## "What" will you study?
 
-Ideally, you should already be fairly well-informed on the subject you want to study at masters level, maybe it is an extension of your study at undergraduate level or has emerged from your work or professional activities.
+Ideally, you should already be fairly well informed on the subject you want to study at masters level, maybe it is an extension of your study at undergraduate level or has emerged from your work or professional activities.
 
 If you are starting out on a subject that is entirely new to you should be aware that you will have to work extra hard to cover the basic knowledge required at masters level of whatever field of study you are moving into. For instance, if you are proposing to work on a project that falls into the realm of 'sociology' and you have not done a degree in sociology, you will have to start off by acquainting yourself with the basic concepts, theories and 'rules' of the discipline and making sure you are aware of the status of the various debates going on in and around your area. You are unlikely to be able to ask a good research question without this basic knowledge.
 
@@ -40,9 +40,9 @@ Your first task is to explain **what** you will research.
 
 ## The "So what?" question
 
-After you have decided on the what, you have to deal with the more difficult questions of "why" and "how". Another thing to take into account is; 'does this question have an answer, and is that answer interesting?'
+After you have decided on the what, you have to deal with the more difficult questions of "why" and "how". Another thing to take into account is; 'does this question have an answer, and is that answer interesting?' Many questions have a simple "yes" or "no" answer, avoid those!
 
-At some point during your studies, someone will ask you what is often the most difficult question to answer, this is "So what?" In other words, how does answering this question actually help us understand the world around us? Why is it important for us (human beings) to understand this? So, it's useful (actually, essential!) for you to think about this as you formulate your research project.
+At some point during your studies, someone will ask you what is often the most difficult question to answer, this is, "So what?" In other words, how does answering this question actually help us understand the world around us? Why is it important for us (human beings) to understand this? So, it's useful (actually, essential!) for you to think about this as you formulate your research project.
 
 It might be somewhat disturbing to hear this but one of the main things we learn from finding out how to do research and to carry out a reliable and valid research project is that (often) we don't actually know as much as we thought we knew, we don't understand things as well as we thought we did. We go from often being pretty confident about what we know/understand to being *less* confident! Eventually, when we are very old and wise and have spent a life thinking and asking 'good questions', we end up like [Socrates](https://plato.stanford.edu/entries/socrates/), who is supposed to have said, 'I know that I know nothing'!
 
@@ -55,7 +55,7 @@ If accepted you will have two years to carry out your research project. Your app
 Think hard about the resources you will require;
 1. **Does the the resource actually exist?** - This may seem like an odd things to say but if you want to study, for example, 'changes in gender representation in Japanese television advertising from the 1990s to the present', then you will have to somehow view those advertisements... do recordings exist?
 2. **Can you get access to these resources?** - Once you've established that a resource exists you'll have to work out how/if you can access it: Where is it? Does it require payment? Is it in a language you can handle?
-3. **Do you need any training to use the resource?** Does it require any special skills to access? Does it require you to use a particular piece of specialised software or equipment?
+3. **Do you need any training to use the resource?** - Does it require any special skills to access? Does it require you to use a particular piece of specialised software or equipment?
 
 ## General Advice
 
@@ -76,9 +76,11 @@ To list up some things you should bear in mind:
 * Does answering the question actually help us understand the world any better?
 * Why would we (human beings in general, not *you*) want to know the answer to this question?
 
+Generally speaking it's not very interesting to compare things that are obviously different, unless there are some hidden similarities which you think deeper study would reveal. On the other hand we often find it very sueful to compare things which actually seem to be very similar, for instance, studies of twins raised in separate households as a way of understanding the different roles of people's genetic inheritance and the environment in which they grow up.
+
 ### Originality
 
-The masters in Japan is somewhat different to that in other countries and understanding this will help you apply. As you already know, it is a two-year program. In Japanese these two years are thought of as the preparatory years for progressing to a PhD[^jpnz]. Perhaps because of this there is an 'originality' requirement which may not be present in other country's systems. That is, research at MA level is required to be 'in some way' original, this might be the actual topic, the theoretical approach taken, or the methods employed.
+The masters in Japan is somewhat different to that in other countries and understanding this will help you apply. As you already know, it is a two-year program. In Japanese these two years are thought of as the preparatory years for progressing to a PhD[^jpnz]. Perhaps because of this there is an 'originality' requirement which may not be present in other country's systems. That is, research at MA level is required to be 'in some way' original, this might be the actual topic, the theoretical approach taken, or the methods employed. Your research must make a 'contribution to knowledge', it must add something new to the way we understand the world.
 
 ### Depth vs breadth
 
