@@ -76,11 +76,18 @@ To list up some things you should bear in mind:
 * Does answering the question actually help us understand the world any better?
 * Why would we (human beings in general, not *you*) want to know the answer to this question?
 
-Generally speaking it's not very interesting to compare things that are obviously different, unless there are some hidden similarities which you think deeper study would reveal. On the other hand we often find it very sueful to compare things which actually seem to be very similar, for instance, studies of twins raised in separate households as a way of understanding the different roles of people's genetic inheritance and the environment in which they grow up.
+Generally speaking it's not very interesting to compare things that are obviously different, unless there are some hidden similarities which you think deeper study would reveal. On the other hand we often find it very useful to compare things which actually seem to be very similar, for instance, studies of twins raised in separate households as a way of understanding the different roles of people's genetic inheritance and the environment in which they grow up.
 
 ### Originality
 
 The masters in Japan is somewhat different to that in other countries and understanding this will help you apply. As you already know, it is a two-year program. In Japanese these two years are thought of as the preparatory years for progressing to a PhD[^jpnz]. Perhaps because of this there is an 'originality' requirement which may not be present in other country's systems. That is, research at MA level is required to be 'in some way' original, this might be the actual topic, the theoretical approach taken, or the methods employed. Your research must make a 'contribution to knowledge', it must add something new to the way we understand the world.
+
+**Prior research**
+
+Having just said that, beware of topics that *no-one* has researched before! Think for a moment of all the thousands of people (academics) around the world, many with years of research experience, who spend all their time looking for interesting things to write about. If *all* these people have decided to not write *anything at all* on the thing you're thinking of researching, there may be a very good reason for that! It may be that the topic is effectively 'unresearchable', that it is a topic where there is no answer, or perhaps, that answering that particular question would not tell us anything very interesting about the world.
+
+For a masters it really helps to be able to be able to use ideas and data which already exist, that is, the publications of researchers who have looked at *similar topics* to yours.. Otherwise you'll have to come up with all that yourself, not an easy task!
+
 
 ### Depth vs breadth
 
