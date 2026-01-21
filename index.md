@@ -3,7 +3,7 @@ title: Planning a Masters Degree at GSIR
 layout: default
 ---
 
-# What to think about when you apply
+# Some things to think about when you apply
 
 There are many ways to apply to do a masters at Ritsumeikan's Graduate School of International Relations ([GSIR](http://www.ritsumei.ac.jp/gsir/eng/)); this site cannot deal with all of them and you will have to look for details of *your* application process on the department website. On the other hand it is possible to offer some general advice about how to approach the application process, and how to go about coming up with a good research proposal.
 
