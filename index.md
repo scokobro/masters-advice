@@ -7,6 +7,14 @@ layout: default
 
 There are many ways to apply to do a masters at Ritsumeikan's Graduate School of International Relations ([GSIR](http://www.ritsumei.ac.jp/gsir/eng/)); this site cannot deal with all of them and you will have to look for details of *your* application process on the department website. On the other hand it is possible to offer some general advice about how to approach the application process, and how to go about coming up with a good research proposal.
 
+# Academic integrity and publishing
+
+**2026 Update**
+
+Over the last few months I have been contacted by several applicants who include 'publications' in their CVs. One of the primary aims of doing academic work is to publish, but not all publications are *good* publications. The issues of 'pay-to-publish' and 'paid authroship' are a plague on the work of honest academics, if someone has told you that 'you have to have a publication to have your applciation seriously', and that it is worth spending money on getiing your name on a publication, they are lying to you. A 'publication' in a bad journal or at a bad conference makes a *very bad impression, it will not help your application!*, and it may cast doubt on your integrity as a potential academic.
+
+If you are not sure which journals and publishers you need to avoid, here's a list: [Beall's List of Potential Predatory Journals and Publishers](https://beallslist.net)
+
 # Making your application
 
 The centre of your applications will probably be your 'research proposal'; the sections below will give you some hints on how (and how *not* ) to write this. However that is not all we look at; also remember to tell us about any of your past academic work that is relevant to your proposal. We also need to have an understanding of your language skills and experience living in Japan. It's very difficult to carry out research in Japan or on Japan without a degree of ability with the Japanese language, this is especially the case if you are planning to rely on methods which require a high degree of language ability; maybe you need to read material from pre-war archives, carry out interviews on a sensitive subject, or understand the cultural connotations of words and phrases.
