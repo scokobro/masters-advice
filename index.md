@@ -11,7 +11,7 @@ There are many ways to apply to do a masters at Ritsumeikan's Graduate School of
 
 **2026 Update**
 
-Over the last few months I have been contacted by several applicants who include 'publications' in their CVs. One of the primary aims of doing academic work is to publish, but not all publications are *good* publications. The issues of 'pay-to-publish' and 'paid authorship' are a plague on the work of honest academics, if someone has told you that 'you must have a publication to have your application taken seriously', and that it is worth spending money on getting your name on a publication, they are lying to you. A 'publication' in a *bad* journal or at a *bad* conference makes a *very **bad** impression, it will not help your application!*, and it may cast doubt on your integrity as a potential academic.
+Over the last few months I have been contacted by several applicants who include 'publications' in their CVs. One of the primary aims of doing academic work is to publish, but not all publications are *good* publications. The issues of 'pay-to-publish' and 'paid authorship' are a plague on the work of honest academics, if someone has told you that 'you must have a publication to have your application taken seriously', and that it is worth spending money on getting your name on a publication, they are lying to you. A 'publication' in a *bad* journal or at a *bad* conference makes a *very **bad** impression, it will not help your application*, and it may cast doubt on your integrity as a potential academic!
 
 If you are not sure which journals and publishers you need to avoid, here's a list: [Beall's List of Potential Predatory Journals and Publishers](https://beallslist.net)
 
